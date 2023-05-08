@@ -72,5 +72,5 @@ Packages required to run this project are kept in requirements.txt file which au
 
 
 
-![](https://github.com/MehreenHabibr/cs5293sp23-project3/blob/main/Untitled%20(3)%20(1).mp4)
+![]([https://github.com/MehreenHabibr/cs5293sp23-project3/blob/main/Untitled%20(3)%20(1).mp4](https://github.com/MehreenHabibr/cs5293sp23-project3/blob/main/ezgif.com-optimize.gif))
 

@@ -1,6 +1,6 @@
 **MEHREEN HABIB**
 ---------
-> ## Project Title: CS5293, spring 2023 Project 3
+> ## Project Title: SmartCity_Data_Analysis
 ### Project Description
  **This project aims to download and clean pdf documents, create and explore clustering models, perform topic modeling to derive meanings.
 There is a templated project3.ipynb that we need to follow and complete. Submitted a completed verision of project3.ipynb with answers and output in the notebeook.This notebook produced an output file (smartcity_eda.tsv) and a saved model (model.pkl)
